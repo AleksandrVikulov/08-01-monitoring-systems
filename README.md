@@ -17,39 +17,40 @@
     * `RAM:         1GB`
     * `Прерываемая: да`
 
-    [img](task_img/02-1.png)
-    [img](task_img/02-2.png)
+    ![Image alt](https://github.com/AleksandrVikulov/08-01-monitoring-systems/raw/main/task_img/02-1.png)
+    ![Image alt](https://github.com/AleksandrVikulov/08-01-monitoring-systems/raw/main/task_img/02-2.png)
 
 3. `Создаем сервисный аккаунт с ролью monitoring.editor`
 
-    [img](task_img/03.png)
+    ![Image alt](https://github.com/AleksandrVikulov/08-01-monitoring-systems/raw/main/task_img/03.png)
 
 4. `Сгенерируем SSH-ключ`
 
-    [img](task_img/04.png)
+    ![Image alt](https://github.com/AleksandrVikulov/08-01-monitoring-systems/raw/main/task_img/04.png)
 
 5. `Настроим доступ к ВМ, указав сервисный аккаунт с ролью monitoring.editor, логин и сгенерированный SSH-ключ`
 
-    [img](task_img/05.png)
+    ![Image alt](https://github.com/AleksandrVikulov/08-01-monitoring-systems/raw/main/task_img/05.png)
+    
 6. `Устанавливаем агент сбора метрик`
 
-    [img](task_img/06.png)
+    ![Image alt](https://github.com/AleksandrVikulov/08-01-monitoring-systems/raw/main/task_img/06.png)
 
 7. `Создаем ВМ с нужными параметрами`
 
-    [img](task_img/07.png)
+    ![Image alt](https://github.com/AleksandrVikulov/08-01-monitoring-systems/raw/main/task_img/07.png)
 
 8. `Переходим в серсим мониторинга, создаем Дашборд, добавляем на него график и создаем параметры запросы для графика`
 
-    [img](task_img/08.png)
+    ![Image alt](https://github.com/AleksandrVikulov/08-01-monitoring-systems/raw/main/task_img/08.png)
 
 9. `Установим время сейчас и увидим график по выбранному запросу`
 
-    [img](task_img/09.png)
+    ![Image alt](https://github.com/AleksandrVikulov/08-01-monitoring-systems/raw/main/task_img/09.png)
 
 10. `Выходим и сохраняем дашборд`
 
-    [img](task_img/10.png)
+    ![Image alt](https://github.com/AleksandrVikulov/08-01-monitoring-systems/raw/main/task_img/10.png)
 
 ---
 ## Дополнительные задания (со звездочкой*)
@@ -61,18 +62,18 @@
 1. `Вернемся на основную вкладку мониторинга и в том же месте, где нажимали создать дашборд, нажмем создать алерт.`
 2. `Введем название алерта`
 
-   [img](task_img/11.png)
+   ![Image alt](https://github.com/AleksandrVikulov/08-01-monitoring-systems/raw/main/task_img/11.png)
 
 3. `Настроим основные метрики: укажем для какой машины применяются метрики, укажем параметры загрузки процессора - выше 50% предупреждение, выше 75% аларм`
 
-   [img](task_img/12.png)
+   ![Image alt](https://github.com/AleksandrVikulov/08-01-monitoring-systems/raw/main/task_img/12.png)
 
 4. `Создадим почтовый канал для уведомлений`
 
-   [img](task_img/13.png)
-   [img](task_img/14.png)
+   ![Image alt](https://github.com/AleksandrVikulov/08-01-monitoring-systems/raw/main/task_img/13.png)
+   ![Image alt](https://github.com/AleksandrVikulov/08-01-monitoring-systems/raw/main/task_img/14.png)
 
 5. `Создаем и сохраняем алерт, и получаем возможность следить за его статусом их интерфейса мониторинга`
 
-   [img](task_img/15.png)
+   ![Image alt](https://github.com/AleksandrVikulov/08-01-monitoring-systems/raw/main/task_img/15.png)
 
