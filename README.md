@@ -6,7 +6,9 @@
 
 1. `Открываем облачную платформу Yandex.Cloud`
 
+    <kbd>  
     ![Image alt](https://github.com/AleksandrVikulov/08-01-monitoring-systems/raw/main/task_img/01.png)
+    </kbd>
 
 2. `Создаем виртуальную машину с конфигурацией согласно заданию:`
     * `ОС:          Debain 11`
