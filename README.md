@@ -19,8 +19,12 @@
     * `RAM:         1GB`
     * `Прерываемая: да`
 
-    ![Image alt](https://github.com/AleksandrVikulov/08-01-monitoring-systems/raw/main/task_img/02-1.png)
-    ![Image alt](https://github.com/AleksandrVikulov/08-01-monitoring-systems/raw/main/task_img/02-2.png)
+    <kbd>  
+      <img src="https://github.com/AleksandrVikulov/08-01-monitoring-systems/raw/main/task_img/02-1.png">
+    </kbd>
+    <kbd>  
+      <img src="https://github.com/AleksandrVikulov/08-01-monitoring-systems/raw/main/task_img/02-2.png">
+    </kbd>ng)
 
 3. `Создаем сервисный аккаунт с ролью monitoring.editor`
 
